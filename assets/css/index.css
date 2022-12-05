@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@import "./minireset.min.css";
-@import "./about.css";
-@import "./barbers.css";
-@import "./contacto.css";
-@import "./galery.css";
-@import "./header.css";
-@import "./jumbotron.css";
-@import "./services.css";
+@import "minireset.min.css";
+@import "abouts.css";
+@import "barbers.css";
+@import "contact.css";
+@import "gallery.css";
+@import "header.css";
+@import "jumbotron.css";
+@import "services.css";
 
 :root {
   --dark-bg-1:    #191c26;
